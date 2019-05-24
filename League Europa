@@ -1,0 +1,2976 @@
+{
+  "version": 32,
+  "meta": {
+    "phaseText": "2019 preseason",
+    "name": "Version 1.0"
+  },
+  "schedule": [],
+  "playoffSeries": [],
+  "negotiations": [],
+  "draftLotteryResults": [],
+  "messages": [],
+  "events": [],
+  "playerFeats": [],
+  "trade": [
+    {
+      "rid": 0,
+      "teams": [
+        {
+          "tid": [],
+          "pids": [],
+          "pidsExcluded": [],
+          "dpids": [],
+          "dpidsExcluded": []
+        },
+        {
+          "tid": 0,
+          "pids": [],
+          "pidsExcluded": [],
+          "dpids": [],
+          "dpidsExcluded": []
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "London",
+      "name": "City Blitz",
+      "abbrev": "LON",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 25,
+          "rank": 12
+        },
+        "scouting": {
+          "amount": 750,
+          "rank": 10
+        },
+        "coaching": {
+          "amount": 750,
+          "rank": 10
+        },
+        "health": {
+          "amount": 750,
+          "rank": 10
+        },
+        "facilities": {
+          "amount": 750,
+          "rank": 10
+        }
+      },
+      "seasons": [
+        {
+          "tid": 0,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0,
+          "pop": 12.1,
+          "stadiumCapacity": 4000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 0
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 0,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 0
+        }
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Paris",
+      "name": "NouV Basket",
+      "abbrev": "PAR",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 54,
+          "rank": 10
+        },
+        "scouting": {
+          "amount": 1250,
+          "rank": 7
+        },
+        "coaching": {
+          "amount": 1250,
+          "rank": 7
+        },
+        "health": {
+          "amount": 1250,
+          "rank": 7
+        },
+        "facilities": {
+          "amount": 1250,
+          "rank": 7
+        }
+      },
+      "seasons": [
+        {
+          "tid": 1,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4,
+          "pop": 10.5,
+          "stadiumCapacity": 7500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 1
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 1,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 1
+        }
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Berlin",
+      "name": "Bombers",
+      "abbrev": "BER",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 60,
+          "rank": 11
+        },
+        "scouting": {
+          "amount": 1000,
+          "rank": 8
+        },
+        "coaching": {
+          "amount": 1000,
+          "rank": 8
+        },
+        "health": {
+          "amount": 1000,
+          "rank": 8
+        },
+        "facilities": {
+          "amount": 1000,
+          "rank": 8
+        }
+      },
+      "seasons": [
+        {
+          "tid": 2,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.2,
+          "pop": 5.2,
+          "stadiumCapacity": 6500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 2
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 2,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 2
+        }
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 0,
+      "region": "Brussels",
+      "name": "Bold Lions",
+      "abbrev": "BRU",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 53,
+          "rank": 14
+        },
+        "scouting": {
+          "amount": 500,
+          "rank": 13
+        },
+        "coaching": {
+          "amount": 500,
+          "rank": 13
+        },
+        "health": {
+          "amount": 500,
+          "rank": 13
+        },
+        "facilities": {
+          "amount": 500,
+          "rank": 13
+        }
+      },
+      "seasons": [
+        {
+          "tid": 3,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.1,
+          "pop": 2.5,
+          "stadiumCapacity": 5500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 3
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 3,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 3
+        }
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 1,
+      "region": "Moscow",
+      "name": "PBC Kosmonauts",
+      "abbrev": "MOS",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 50,
+          "rank": 4
+        },
+        "scouting": {
+          "amount": 5500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 5500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 5500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 5500,
+          "rank": 1
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 4,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 1,
+          "pop": 17.1,
+          "stadiumCapacity": 13500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 4
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 4,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 4
+        }
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "region": "Vilnius",
+      "name": "K.K. Greens",
+      "abbrev": "VIL",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 48,
+          "rank": 12
+        },
+        "scouting": {
+          "amount": 1500,
+          "rank": 12
+        },
+        "coaching": {
+          "amount": 1500,
+          "rank": 12
+        },
+        "health": {
+          "amount": 1500,
+          "rank": 12
+        },
+        "facilities": {
+          "amount": 1500,
+          "rank": 12
+        }
+      },
+      "seasons": [
+        {
+          "tid": 5,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 1,
+          "pop": 0.8,
+          "stadiumCapacity": 16000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 5
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 5,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 5
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 1,
+      "region": "Warsaw",
+      "name": "Partyzants",
+      "abbrev": "WAR",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 30,
+          "rank": 15
+        },
+        "scouting": {
+          "amount": 250,
+          "rank": 14
+        },
+        "coaching": {
+          "amount": 250,
+          "rank": 14
+        },
+        "health": {
+          "amount": 250,
+          "rank": 14
+        },
+        "facilities": {
+          "amount": 250,
+          "rank": 14
+        }
+      },
+      "seasons": [
+        {
+          "tid": 6,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0,
+          "pop": 3.4,
+          "stadiumCapacity": 6000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 6
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 6,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 6
+        }
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 1,
+      "region": "Kiev",
+      "name": "BC Cossacks",
+      "abbrev": "KYV",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 20,
+          "rank": 16
+        },
+        "scouting": {
+          "amount": 0,
+          "rank": 16
+        },
+        "coaching": {
+          "amount": 0,
+          "rank": 16
+        },
+        "health": {
+          "amount": 0,
+          "rank": 16
+        },
+        "facilities": {
+          "amount": 0,
+          "rank": 16
+        }
+      },
+      "seasons": [
+        {
+          "tid": 7,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0,
+          "pop": 3.0,
+          "stadiumCapacity": 3000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 7
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 7,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 7
+        }
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 2,
+      "region": "Barcelona",
+      "name": "Los Rojos Basquet",
+      "abbrev": "BCN",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 59,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 2600,
+          "rank": 6
+        },
+        "coaching": {
+          "amount": 2600,
+          "rank": 6
+        },
+        "health": {
+          "amount": 2600,
+          "rank": 6
+        },
+        "facilities": {
+          "amount": 2600,
+          "rank": 6
+        }
+      },
+      "seasons": [
+        {
+          "tid": 8,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8,
+          "pop": 5.4,
+          "stadiumCapacity": 10500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 8
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 8,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 8
+        }
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 0,
+      "did": 2,
+      "region": "Madrid",
+      "name": "Toreros Baloncesto",
+      "abbrev": "MAD",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 68,
+          "rank": 2
+        },
+        "scouting": {
+          "amount": 3500,
+          "rank": 2
+        },
+        "coaching": {
+          "amount": 3500,
+          "rank": 2
+        },
+        "health": {
+          "amount": 3500,
+          "rank": 2
+        },
+        "facilities": {
+          "amount": 3500,
+          "rank": 2
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 9,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 1,
+          "pop": 6.5,
+          "stadiumCapacity": 13000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 9
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 9,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 9
+        }
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 0,
+      "did": 2,
+      "region": "Geneva",
+      "name": "SafeBets",
+      "abbrev": "GNV",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55,
+          "rank": 8
+        },
+        "scouting": {
+          "amount": 100,
+          "rank": 15
+        },
+        "coaching": {
+          "amount": 100,
+          "rank": 15
+        },
+        "health": {
+          "amount": 100,
+          "rank": 15
+        },
+        "facilities": {
+          "amount": 100,
+          "rank": 15
+        }
+      },
+      "seasons": [
+        {
+          "tid": 10,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0,
+          "pop": 0.9,
+          "stadiumCapacity": 2000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 10
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 10,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 10
+        }
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 0,
+      "did": 2,
+      "region": "Milan",
+      "name": "AG PAP",
+      "abbrev": "MIL",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 51,
+          "rank": 3
+        },
+        "scouting": {
+          "amount": 2000,
+          "rank": 5
+        },
+        "coaching": {
+          "amount": 2000,
+          "rank": 5
+        },
+        "health": {
+          "amount": 2000,
+          "rank": 5
+        },
+        "facilities": {
+          "amount": 2000,
+          "rank": 5
+        }
+      },
+      "seasons": [
+        {
+          "tid": 11,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6,
+          "pop": 8.1,
+          "stadiumCapacity": 12500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 11
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 11,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 11
+        }
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 0,
+      "did": 3,
+      "region": "Istanbul",
+      "name": "S.K. Janissaries",
+      "abbrev": "ISB",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 41,
+          "rank": 4
+        },
+        "scouting": {
+          "amount": 2400,
+          "rank": 4
+        },
+        "coaching": {
+          "amount": 2400,
+          "rank": 4
+        },
+        "health": {
+          "amount": 2400,
+          "rank": 4
+        },
+        "facilities": {
+          "amount": 2400,
+          "rank": 4
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 12,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7,
+          "pop": 15,
+          "stadiumCapacity": 12000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 12
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 12,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 12
+        }
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 3,
+      "region": "Tel-Aviv",
+      "name": "White Dunes",
+      "abbrev": "TAV",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 70,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 2500,
+          "rank": 3
+        },
+        "coaching": {
+          "amount": 2500,
+          "rank": 3
+        },
+        "health": {
+          "amount": 2500,
+          "rank": 3
+        },
+        "facilities": {
+          "amount": 2500,
+          "rank": 3
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 13,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 1,
+          "pop": 3.9,
+          "stadiumCapacity": 11500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 13
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 13,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 13
+        }
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 3,
+      "region": "Belgrade",
+      "name": "Red Hammers",
+      "abbrev": "BGD",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 39,
+          "rank": 9
+        },
+        "scouting": {
+          "amount": 1600,
+          "rank": 11
+        },
+        "coaching": {
+          "amount": 1600,
+          "rank": 11
+        },
+        "health": {
+          "amount": 1600,
+          "rank": 11
+        },
+        "facilities": {
+          "amount": 1600,
+          "rank": 11
+        }
+      },
+      "seasons": [
+        {
+          "tid": 14,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9,
+          "pop": 1.7,
+          "stadiumCapacity": 18500,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 14
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 14,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 14
+        }
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 3,
+      "region": "Athens",
+      "name": "Sophists BC",
+      "abbrev": "ATH",
+      "imgURL": "",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 2800,
+          "rank": 9
+        },
+        "coaching": {
+          "amount": 2800,
+          "rank": 9
+        },
+        "health": {
+          "amount": 2800,
+          "rank": 9
+        },
+        "facilities": {
+          "amount": 2800,
+          "rank": 9
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 15,
+          "season": 2019,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 1,
+          "pop": 3.8,
+          "stadiumCapacity": 17000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 8.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 8.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 15
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2019,
+          "tid": 15,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 15
+        }
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "aiTrades",
+      "value": true
+    },
+    {
+      "key": "autoDeleteOldBoxScores",
+      "value": true
+    },
+    {
+      "key": "brotherRate",
+      "value": 0.02
+    },
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "League Europa"
+        }
+      ]
+    },
+    {
+      "key": "daysLeft",
+      "value": 0
+    },
+    {
+      "key": "defaultStadiumCapacity",
+      "value": 7500
+    },
+    {
+      "key": "difficulty",
+      "value": 1
+    },
+    {
+      "key": "disableInjuries",
+      "value": false
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": "West"
+        },
+        {
+          "did": 1,
+          "cid": 0,
+          "name": "North"
+        },
+        {
+          "did": 2,
+          "cid": 0,
+          "name": "South"
+        },
+        {
+          "did": 3,
+          "cid": 0,
+          "name": "East"
+        }
+      ]
+    },
+    {
+      "key": "draftType",
+      "value": "nba2019"
+    },
+    {
+      "key": "easyDifficultyInPast",
+      "value": false
+    },
+    {
+      "key": "gameOver",
+      "value": false
+    },
+    {
+      "key": "godMode",
+      "value": false
+    },
+    {
+      "key": "gracePeriodEnd",
+      "value": 2021
+    },
+    {
+      "key": "hardCap",
+      "value": false
+    },
+    {
+      "key": "injuryRate",
+      "value": 0.000125
+    },
+    {
+      "key": "leagueName",
+      "value": "League 1"
+    },
+    {
+      "key": "luxuryPayroll",
+      "value": 25000
+    },
+    {
+      "key": "luxuryTax",
+      "value": 2.5
+    },
+    {
+      "key": "maxContract",
+      "value": 7000
+    },
+    {
+      "key": "maxRosterSize",
+      "value": 15
+    },
+    {
+      "key": "minContract",
+      "value": 100
+    },
+    {
+      "key": "minPayroll",
+      "value": 5000
+    },
+    {
+      "key": "minRosterSize",
+      "value": 10
+    },
+    {
+      "key": "nextPhase",
+      "value": null
+    },
+    {
+      "key": "numDraftRounds",
+      "value": 3
+    },
+    {
+      "key": "numGames",
+      "value": 30
+    },
+    {
+      "key": "numGamesPlayoffSeries",
+      "value": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "numPlayoffByes",
+      "value": 0
+    },
+    {
+      "key": "numTeams",
+      "value": 16
+    },
+    {
+      "key": "ownerMood",
+      "value": {
+        "wins": 0,
+        "playoffs": 0,
+        "money": 0
+      }
+    },
+    {
+      "key": "phase",
+      "value": 0
+    },
+    {
+      "key": "quarterLength",
+      "value": 12
+    },
+    {
+      "key": "salaryCap",
+      "value": 40000
+    },
+    {
+      "key": "season",
+      "value": 2019
+    },
+    {
+      "key": "showFirstOwnerMessage",
+      "value": true
+    },
+    {
+      "key": "sonRate",
+      "value": 0.02
+    },
+    {
+      "key": "startingSeason",
+      "value": 2019
+    },
+    {
+      "key": "stopOnInjury",
+      "value": false
+    },
+    {
+      "key": "stopOnInjuryGames",
+      "value": 20
+    },
+    {
+      "key": "ties",
+      "value": false
+    },
+    {
+      "key": "tragicDeathRate",
+      "value": 0.0002
+    },
+    {
+      "key": "userTid",
+      "value": 3
+    },
+    {
+      "key": "userTids",
+      "value": [
+        3
+      ]
+    }
+  ]
+}
